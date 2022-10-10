@@ -5,9 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-AnuKatti-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-AnuKatti-yellow)](https://stackoverflow.com/users/3687251/AnuKatti-)
 
-I'm
-Front-end Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm a
+Front-end Developer who is able to realize projects from the ground up.I am well versed in all the key languages and able to design, code and deploy in an organised and efficient manner.
+I have a wide range of skills that include front-end development using open source technologies (React, ReactJs, HTML5, CSS3, Javascript, Responsive,), design (working closely with designers), database(Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/AnuKatti/count.svg)
