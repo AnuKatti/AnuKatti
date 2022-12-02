@@ -6,9 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-AnuKatti-yellow)](https://stackoverflow.com/users/3687251/AnuKatti-)
 
 I'm a
-Front-end Developer who is capable of realizing projects from the ground up.I am well versed in all the key languages and able to design, code and deploy in an organised and efficient manner.
-I have a wide range of skills that include front-end development using open source technologies (ReactJs, HTML5, CSS3, Javascript, Responsive), design (working closely with designers).
-
+Front-end Developer and my specialties include quickly learning new skills and programming languages, problem solving, responsive design and website optimization. I'm capable of realizing projects from the ground up.I am also well versed in all the key languages and able to design, code and deploy in an organised and efficient manner. So far I have Visual Studio 2010, JavaScript, HTML, CSS, ReactJS, and Git/GitHub under my belt. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
 
 ![Visitor Count](https://profile-counter.glitch.me/AnuKatti/count.svg)
 
