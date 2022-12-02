@@ -7,7 +7,7 @@
 
 I'm a
 Front-end Developer who is capable of realizing projects from the ground up.I am well versed in all the key languages and able to design, code and deploy in an organised and efficient manner.
-I have a wide range of skills that include front-end development using open source technologies (React, ReactJs, HTML5, CSS3, Javascript, Responsive,), design (working closely with designers), database(Mysql).
+I have a wide range of skills that include front-end development using open source technologies (ReactJs, HTML5, CSS3, Javascript, Responsive), design (working closely with designers).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/AnuKatti/count.svg)
