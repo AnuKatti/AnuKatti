@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-AnuKatti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuradha-katti-2ba925b1/?originalSubdomain=ca)](https://www.linkedin.com/in/anuradha-katti-2ba925b1/?originalSubdomain=ca)
-[![Website Badge](https://img.shields.io/badge/WebSite-AnuKatti-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-AnuKatti-yellow)](https://stackoverflow.com/users/3687251/AnuKatti-)
+[![Website Badge](https://img.shields.io/badge/WebSite-AnuKatti-green)]((https://github.com/AnuKatti))
 
 I'm a
 Front-end Developer and my specialties include quickly learning new skills and programming languages, problem solving, responsive design and website optimization. I'm capable of realizing projects from the ground up.I am also well versed in all the key languages and able to design, code and deploy in an organised and efficient manner. So far I have Visual Studio 2010, JavaScript, HTML, CSS, ReactJS, and Git/GitHub under my belt. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
