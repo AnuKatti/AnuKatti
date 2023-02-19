@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-AnuKatti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuradha-katti-2ba925b1/?originalSubdomain=ca)](https://www.linkedin.com/in/anuradha-katti-2ba925b1/?originalSubdomain=ca)
 [![Website Badge](https://img.shields.io/badge/WebSite-AnuKatti-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-AnuKatti-yellow)](https://stackoverflow.com/users/3687251/AnuKatti-)
