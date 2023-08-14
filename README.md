@@ -2,8 +2,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AnuKatti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuradha-katti-2ba925b1/?originalSubdomain=ca)](https://www.linkedin.com/in/anuradha-katti-2ba925b1/?originalSubdomain=ca)
 [![Website Badge](https://img.shields.io/badge/WebSite-AnuKatti-green)]((https://github.com/AnuKatti))
 
-I'm a
-Front-end Developer and my specialties include quickly learning new skills and programming languages, problem solving, responsive design and website optimization. I'm capable of realizing projects from the ground up.I am also well versed in all the key languages and able to design, code and deploy in an organised and efficient manner. So far I have Visual Studio 2010, JavaScript, HTML, CSS, ReactJS, and Git/GitHub under my belt. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
+Welcome to my GitHub profile! I'm Anu Katti, a dedicated web developer with a passion for crafting seamless and engaging digital experiences. With a strong foundation in Java programming and a flair for effective teaching, I'm committed to both enhancing my skills and guiding others on their journey through the dynamic world of web development.
+
+As an enthusiastic self-starter, I've embarked on various projects that showcase my expertise in Java, while also delving into the realms of HTML, CSS, and JavaScript. My goal is to contribute to the creation of user-centric websites and applications that seamlessly blend functionality with aesthetics.
+
+With a track record of simplifying intricate programming concepts, I've had the privilege of mentoring aspiring developers, streamlining their learning journeys, and witnessing their progress as they grasp the intricacies of coding. Through continuous exploration and hands-on experiences, I'm always striving to improve and innovate, pushing the boundaries of what's possible in the ever-evolving landscape of web development.
 
 ![Visitor Count](https://profile-counter.glitch.me/AnuKatti/count.svg)
 
